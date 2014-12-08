@@ -10,15 +10,10 @@ are pretty much free to use it however you want in whatever way.
 
 For more info, see <http://logstash.net/>
 
-## logstash-contrib
-### AKA "Where'd that plugin go??"
+## logstash-plugins
 
-Since version 1.4.0 of Logstash, some of the community-contributed plugins were
-moved to a new home in the
-[Elasticsearch logstash-contrib repo](https://github.com/elasticsearch/logstash-contrib).
-If you can't find a plugin here which you've previously used, odds are it is now
-located there. The good news is that these plugins are simple to install using the
-[Logstash manual plugin installation script](http://logstash.net/docs/latest/contrib-plugins).
+Since version 1.5.0 of Logstash, some of the community-contributed plugins were
+moved to their own repository. 
 
 ## Need Help?
 
